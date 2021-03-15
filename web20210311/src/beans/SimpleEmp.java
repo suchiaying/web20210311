@@ -1,5 +1,5 @@
 package beans;
-
+//4
 public class SimpleEmp {
 	private int id;
 	   private String fname;
