@@ -3,7 +3,7 @@ package beans;
 import java.util.ArrayList;
 
 import javax.servlet.http.HttpServletRequest;
-
+//change
 public class MyBean {
 	 ArrayList<String> v = new ArrayList<String>();
 	    String submit = null;
